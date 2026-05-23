@@ -214,7 +214,7 @@ def show_menu():
 
 def main():
     print("\n" + "═" * 56)
-    print("      CodeAlpha — Stock Portfolio Tracker")
+    print(" Stock Portfolio Tracker")
     print("  Track your investments and monitor gains/losses")
     print("═" * 56)
 
